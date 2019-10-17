@@ -9,7 +9,7 @@
   border: none;
   box-shadow: none;
   height: 120px;
-  padding-left: 20em;
+  padding-left: 10em;
   margin: 0px;
 }
 
@@ -20,7 +20,6 @@
 
 .install.label {
   background-color: #5c7e10 !important;
-  ;
 }
 
 .text {

@@ -7,7 +7,7 @@ import { Container, Menu, Dropdown, Image, Icon, Grid, Input, Button } from 'sem
 class TopMenu extends React.Component {
   handleInstall = () => {
     console.log('Downloading...');
-  }
+  };
 
   render() {
     return (
